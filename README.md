@@ -7,46 +7,14 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ## Table of contents
 
 * [Overview](#overview)
-* [Approach](#Approach)
-* [Use case ideas](#Use-case-ideas)
-* [Beyond the basics](#Beyond-the-basics)
+* [Landing page](#Landing-page)
+* [User home page](#User-home-page)
+* [Admin home page](#Admin-home-page)
+* [Club admin home page](#Club-admin-home-page)
+* [Browse clubs by interest area](#Browse-clubs-by-interest-area)
 * [Team](#team)
 
 ## Overview
+UH Manoa has over 200 Registered Independent Organizations, plus many more that do not have this “official” status but are nonetheless active organizations. Unfortunately, there is no easy way for students to learn (a) what student clubs (both registered and unregistered) exist, what they do, and how to get further involved. We are here to provide a centralized directory for UH Manoa student clubs. UH Manoa students can login to browse a well organized directory of all current student clubs, with brief descriptions, meeting times and locations, URLs to their websites (if any), contact information for officers, and a few select photos.
 
 
-
-
-
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/the-club-for-you/the-club-for-you.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
