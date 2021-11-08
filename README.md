@@ -21,15 +21,17 @@ UH Manoa has over 200 Registered Independent Organizations, plus many more that 
 ## Landing page
 Landing page will provide a basic idea of the project to the user and have a explaination to the users on how to use it.
 
-### User home page
+## User home page
 User Page will provide all the developed tools that can be accessed by the user in this project to help them find a interested clubs.
 
-### Admin home page
+## Admin home page
 Admin page will provide all the developed tools that can be accessed by the admin, but also will be able to track and broswer the informations of registed users
 
-### Club admin home page
+## Club admin home page
+Club admin page will provide all the developed tools that can be accessed by the club owner
 
-### Browse clubs by interest area
+## Browse clubs by interest area
+This page will display the all the clubs that matches with the interests picked by user
 
 ## Team
 - Jingzhe Feng
