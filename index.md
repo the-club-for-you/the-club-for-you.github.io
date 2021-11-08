@@ -1,12 +1,12 @@
 # The Club for You
 
 ### Our Goals
-The Club for You aims to provide a centralized directory for UH Manoa student clubs, both registered and unregistered. Here, students can learn about different clubs, what they do, and how to get involved. 
+The Club for You aims to provide a directory for UH Manoa student clubs, both registered and unregistered. This way, it will be easy for students to see what different clubs are out there and how they can join them.
 
-Each club will have: 
-- a brief description
-- meeting times and locations
-- a URL to its website (if any)
-- contact information for officers
-- a few select photos
+Each club's entry will have (as many as applicable): 
+- a description
+- meeting times / locations
+- a club website URL
+- contact information
+- a few photos
 
