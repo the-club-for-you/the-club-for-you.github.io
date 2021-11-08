@@ -10,8 +10,6 @@ Each club's entry will have (as many as applicable):
 - contact information
 - a few photos
 
-
-
 ### Landing page
 * navigation bar: home, clubs
 ### User home page
