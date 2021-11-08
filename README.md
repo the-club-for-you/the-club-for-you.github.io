@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to The club for you
+Please visit our project in [https://the-club-for-you.github.io/](https://the-club-for-you.github.io/).
 
-You can use the [editor on GitHub](https://github.com/the-club-for-you/the-club-for-you.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ## Table of contents
 
