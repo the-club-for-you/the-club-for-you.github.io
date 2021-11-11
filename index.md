@@ -51,7 +51,7 @@ Fourth, cd into the app/ directory of your local copy of the repo, and install t
 $ meteor npm install
 ```
 
-## Running the system
+### Running the system
 
 Once the libraries are installed, you can run the application by invoking the "start" script in the [package.json file](https://github.com/the-club-for-you/the-club-for-you/blob/master/app/package.json):
 
