@@ -13,16 +13,18 @@ Each club's entry will have (as many as applicable):
 &nbsp;
 
 ### Landing page
-* navigation bar: home, clubs
+Landing page will provide a basic idea of the project to the user and have a explaination to the users on how to use it.
+* Navigation Bar: Home, Clubs
 ### User home page
-* clubs information(description, meeting time, location etc.)
-* navigation bar: home, clubs
+User Page will provide all the developed tools that can be accessed by the user in this project to help them find a interested clubs.
+* Clubs Information(Description, Meeting time, Location etc.)
+* Navigation Bar: Home, Clubs
 ### Admin home page
-* clubs information(description, meeting time, location etc.)
-* navigation bar: home, clubs, edit club (all clubs)
+* clubs information(Description, Meeting time, Location etc.)
+* Navigation Bar: Home, Clubs, Edit Club (All Clubs)
 ### Club admin home page.
-* clubs information(description, meeting time, location etc.)
-* navigation bar: home, clubs, edit club (their own clubs)
+* Clubs Information(Description, Meeting time, Location etc.)
+* Navigation Bar: Home, Clubs, Edit Club (Their Own Clubs)
 ### Browse clubs by interest area(s)
 * Each clubs has specific interest tag on, then user can find them if they interest on that specific area.
 
