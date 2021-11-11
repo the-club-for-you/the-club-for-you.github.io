@@ -26,6 +26,11 @@ Each club's entry will have (as many as applicable):
 ### Browse clubs by interest area(s)
 * Each clubs has specific interest tag on, then user can find them if they interest on that specific area.
 
+### Team
+- Jingzhe Feng
+- Joy Okimoto
+- Malia Liu
+- Trevor Kansaki
 
 ## Mockup Page example
 ![](images/Mockup.png)
