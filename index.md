@@ -40,6 +40,7 @@ User Page will provide all the developed tools that can be accessed by the user 
 ### Browse clubs by interest area(s)
 * Each clubs has specific interest tag on, then user can find them if they interest on that specific area.
 
+&nbsp;
 
 ## Mockup Page example
 ![](images/Mockup.png)
