@@ -20,7 +20,7 @@ User Page will provide all the developed tools that can be accessed by the user 
 * Clubs Information(Description, Meeting time, Location etc.)
 * Navigation Bar: Home, Clubs
 ### Admin home page
-* clubs information(Description, Meeting time, Location etc.)
+* Clubs Information(Description, Meeting time, Location etc.)
 * Navigation Bar: Home, Clubs, Edit Club (All Clubs)
 ### Club admin home page.
 * Clubs Information(Description, Meeting time, Location etc.)
