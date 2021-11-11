@@ -38,4 +38,4 @@ This page will display the all the clubs that matches with the interests picked 
 - Jingzhe Feng
 - Joy Okimoto
 - Malia Liu
-
+- Trevor Kansaki
