@@ -13,33 +13,45 @@ Each club's entry will have (as many as applicable):
 &nbsp;
 
 ### Landing page
-The landing page will provide a basic idea of the project to the user and have a explaination to the users on how to use it.
+The landing page will provide a basic idea of the project to the user and have a explanation to the users on how to use it.
 <img class = "ui left spaced image" src = "/images/the-club-for-you-landing.PNG">
 
 &nbsp;
 
+### Contact page
+* <img class = "ui left spaced image" src = "/images/the-club-for-you-contact.PNG">
+
+&nbsp;
+
 ### Clubs page
-The Clubs page will provide all the developed tools that can be accessed by the user in this project to help them find a interested clubs.
+The Clubs page will show all of the clubs who use The Club for You. Each club also has tag(s) that the user can click on to see other, similar clubs.
 * Clubs Information(Description, Meeting time, Location etc.)
-* Navigation Bar: Home, Clubs
 <img class = "ui left spaced image" src = "/images/the-club-for-you-clubs.PNG">
 
 &nbsp;
 
-### Admin home page
-* Clubs Information(Description, Meeting time, Location etc.)
-* Navigation Bar: Home, Clubs, Edit Club (All Clubs)
+### Edit a Club page (Admins only)
+* Identical to the Clubs page except that each Club's informational card has an "Edit" option that links to the Edit Club form
+<img class = "ui left spaced image" src = "/images/the-club-for-you-admin-edit-clubs-1.PNG">
+<img class = "ui left spaced image" src = "/images/the-club-for-you-admin-edit-clubs-2.PNG">
 
 &nbsp;
 
-### Club admin home page.
-* Clubs Information(Description, Meeting time, Location etc.)
-* Navigation Bar: Home, Clubs, Edit Club (Their Own Clubs)
+### Add a New Club page (Admins only)
+<img class = "ui left spaced image" src = "/images/the-club-for-you-admin-add-club-1.PNG">
+<img class = "ui left spaced image" src = "/images/the-club-for-you-admin-add-club-2.PNG">
+
+&nbsp;
+
+### My Clubs page (Club accounts only).
+* Functions: View/Edit Club (Their Own Clubs)
+<img class = "ui left spaced image" src = "/images/the-club-for-you-clubadmin-myclubs.PNG">
 
 &nbsp;
 
 ### Browse clubs by interest area(s)
-* Each clubs has specific interest tag on, then user can find them if they interest on that specific area.
+* Each clubs has specific interest tag on, so users can find them if they are interested in that specific area.
+* <img class = "ui left spaced image" src = "/images/the-club-for-you-interests.PNG">
 
 &nbsp;
 
@@ -80,9 +92,10 @@ The Club For You is build based upon [meteor-application-template-react](https:/
 
 
 ## Development History 
-Milestone 1: (Coming soon)
-Milestone 2: (Coming soon)
-Milestone 3：(Coming soon)
+Milestone 1: (<a href = "https://github.com/the-club-for-you/the-club-for-you/projects/1"> link </a>)
+ &nbsp;
+Milestone 2: (Coming soon) &nbsp;
+Milestone 3：(Coming soon) &nbsp;
 
 ## Contact Us (Coming Soon)
 
