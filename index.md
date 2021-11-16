@@ -14,7 +14,7 @@ Each club's entry will have (as many as applicable):
 
 ### Landing page
 Landing page will provide a basic idea of the project to the user and have a explaination to the users on how to use it.
-<img class = "ui left spaced image" src = "/images/the-club-for-you-landing.PNG>
+<img class = "ui left spaced image" src = "/images/the-club-for-you-landing.PNG">
 
 &nbsp;
 
