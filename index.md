@@ -13,15 +13,16 @@ Each club's entry will have (as many as applicable):
 &nbsp;
 
 ### Landing page
-Landing page will provide a basic idea of the project to the user and have a explaination to the users on how to use it.
+The landing page will provide a basic idea of the project to the user and have a explaination to the users on how to use it.
 <img class = "ui left spaced image" src = "/images/the-club-for-you-landing.PNG">
 
 &nbsp;
 
-### User home page
-User Page will provide all the developed tools that can be accessed by the user in this project to help them find a interested clubs.
+### Clubs page
+The Clubs page will provide all the developed tools that can be accessed by the user in this project to help them find a interested clubs.
 * Clubs Information(Description, Meeting time, Location etc.)
 * Navigation Bar: Home, Clubs
+<img class = "ui left spaced image" src = "/images/the-club-for-you-clubs.PNG">
 
 &nbsp;
 
