@@ -19,7 +19,7 @@ The landing page will provide a basic idea of the project to the user and have a
 &nbsp;
 
 ### Contact page
-* <img class = "ui left spaced image" src = "/images/the-club-for-you-contact.PNG">
+<img class = "ui left spaced image" src = "/images/the-club-for-you-contact.PNG">
 
 &nbsp;
 
@@ -51,7 +51,7 @@ The Clubs page will show all of the clubs who use The Club for You. Each club al
 
 ### Browse clubs by interest area(s)
 * Each clubs has specific interest tag on, so users can find them if they are interested in that specific area.
-* <img class = "ui left spaced image" src = "/images/the-club-for-you-interests.PNG">
+<img class = "ui left spaced image" src = "/images/the-club-for-you-interests.PNG">
 
 &nbsp;
 
@@ -92,9 +92,8 @@ The Club For You is build based upon [meteor-application-template-react](https:/
 
 
 ## Development History 
-Milestone 1: (<a href = "https://github.com/the-club-for-you/the-club-for-you/projects/1"> link </a>)
- &nbsp;
-Milestone 2: (Coming soon) &nbsp;
+Milestone 1 (done): (<a href = "https://github.com/the-club-for-you/the-club-for-you/projects/1"> link </a>) &nbsp;
+Milestone 2 (in-progress): (<a href = "https://github.com/the-club-for-you/the-club-for-you/projects/2"> link </a>) &nbsp;
 Milestone 3：(Coming soon) &nbsp;
 
 ## Contact Us (Coming Soon)
