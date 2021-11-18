@@ -97,7 +97,7 @@ Milestone 2 (in-progress): (<a href = "https://github.com/the-club-for-you/the-c
 Milestone 3：(Coming soon) &nbsp;
 
 ## Deployment
-View our application, The Club for You, at our Digital Ocean droplet: (<a hred = "http://137.184.27.140"> link </a>) &nbsp;
+View our application, The Club for You, at our Digital Ocean droplet: (<a href = "http://137.184.27.140"> link </a>) &nbsp;
 
 ## Contact Us (Coming Soon)
 
