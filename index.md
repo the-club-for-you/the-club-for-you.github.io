@@ -93,13 +93,15 @@ The Club For You is build based upon [meteor-application-template-react](https:/
 
 ## Development History 
 Milestone 1 (done): (<a href = "https://github.com/the-club-for-you/the-club-for-you/projects/1"> link </a>) &nbsp;
+
 Milestone 2 (in-progress): (<a href = "https://github.com/the-club-for-you/the-club-for-you/projects/2"> link </a>) &nbsp;
+
 Milestone 3：(Coming soon) &nbsp;
 
-## Deployment
-View our application, The Club for You, at our Digital Ocean droplet: (<a href = "http://137.184.27.140"> link </a>) &nbsp;
-
 ## Contact Us (Coming Soon)
+
+## Deployment on Digital Ocean
+Please visit [uhmtheclubforyou.xyz](https://uhmtheclubforyou.xyz).
 
 ## Team
 - Jingzhe Feng
