@@ -103,6 +103,9 @@ Milestone 3：(Coming soon) &nbsp;
 ## Deployment on Digital Ocean
 Please visit [uhmtheclubforyou.xyz](https://uhmtheclubforyou.xyz).
 
+## GitHub Organization
+The repositories for this website as well as the application are available at: (https://github.com/the-club-for-you).
+
 ## Team
 - Jingzhe Feng
 - Joy Okimoto
