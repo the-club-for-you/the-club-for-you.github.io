@@ -12,6 +12,8 @@ Each club's entry will have (as many as applicable):
 
 &nbsp;
 
+## User Guide (Screen Shot of Each Page Section )
+
 ### Landing page
 The landing page will provide a basic idea of the project to the user and have a explanation to the users on how to use it.
 <img class = "ui left spaced image" src = "/images/the-club-for-you-landing.PNG">
@@ -57,8 +59,6 @@ The Clubs page will show all of the clubs who use The Club for You. Each club al
 
 ## Mockup Page example
 ![](images/Mockup.png)
-
-## User Guide (Screen Shot of Each Page Section )
 
 ## Community Feedback(Coming Soon)
 
