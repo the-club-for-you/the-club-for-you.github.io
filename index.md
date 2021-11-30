@@ -47,7 +47,10 @@ The Clubs page will show all of the clubs who use The Club for You. Each club al
 
 ### My Clubs page (Club accounts only).
 * Functions: View/Edit Club (Their Own Clubs)
-<img class = "ui left spaced image" src = "/images/the-club-for-you-clubadmin-myclubs.PNG">
+* Note: Can not change the owner of any of the clubs. For that, a club must contact an admin.
+<img class = "ui left spaced image" src = "/images/the-club-for-you-clubadmin-myclubs-1.PNG">
+<img class = "ui left spaced image" src = "/images/the-club-for-you-clubadmin-myclubs-2.PNG">
+<img class = "ui left spaced image" src = "/images/the-club-for-you-clubadmin-myclubs-3.PNG">
 
 &nbsp;
 
