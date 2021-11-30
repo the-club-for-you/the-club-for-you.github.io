@@ -96,7 +96,7 @@ Milestone 1 (done): (<a href = "https://github.com/the-club-for-you/the-club-for
 
 Milestone 2 (done): (<a href = "https://github.com/the-club-for-you/the-club-for-you/projects/2"> link </a>) &nbsp;
 
-Milestone 3：(in-progress) (<a href = "https://github.com/the-club-for-you/the-club-for-you/projects/3" link </a>) &nbsp;
+Milestone 3：(in-progress) (<a href = "https://github.com/the-club-for-you/the-club-for-you/projects/3"> link </a>) &nbsp;
 
 ## Contact Us (Coming Soon)
 
