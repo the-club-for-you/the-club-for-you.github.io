@@ -92,6 +92,7 @@ $ meteor npm run start
 If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000).
 
 ## TestCafe Result
+![ci-badge](https://github.com/the-club-for-you/the-club-for-you/workflows/ci-the-club-for-you/badge.svg)
 <img class = "ui left spaced image" src = "/images/testcafe.png">
 
 ## Application Design
