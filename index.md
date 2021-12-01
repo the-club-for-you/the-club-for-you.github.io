@@ -91,6 +91,9 @@ $ meteor npm run start
 
 If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000).
 
+## TestCafe Result
+<img class = "ui left spaced image" src = "/images/testcafe.png">
+
 ## Application Design
 The Club For You is build based upon [meteor-application-template-react](https://ics-software-engineering.github.io/meteor-application-template-react/). Please use the videos and documentation at those sites to better acquaint yourself with the basic application design and form processing in The Club For You.
 
