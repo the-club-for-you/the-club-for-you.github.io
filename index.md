@@ -85,16 +85,11 @@ A summary of our community feedback questionnaire responses (as of December 15, 
 &nbsp;
 
 #### Anything we can do to help your experiences in our website?
-> Filter function is good for selecting what you want, but it sometimes shows nothing, maybe due to low club numbers for the filter tag
-<!---->
-> UI design
-<!---->
-> After you login, I hope there will be indication that you had logged in, rather than the site jumping back to the start
-<!---->
-> Maybe more pictures
-<!---->
-> The overall design is great. A little suggestion for the club section: more details about the clubs, maybe more pictures or comments from the club members. 
-<!---->
+* Filter function is good for selecting what you want, but it sometimes shows nothing, maybe due to low club numbers for the filter tag
+* UI design
+* After you login, I hope there will be indication that you had logged in, rather than the site jumping back to the start
+* Maybe more pictures
+* The overall design is great. A little suggestion for the club section: more details about the clubs, maybe more pictures or comments from the club members. 
 &nbsp;
 
 #### Any suggestions?
