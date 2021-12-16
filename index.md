@@ -103,6 +103,8 @@ A summary of our community feedback questionnaire responses (as of December 15, 
 * Confused at first whether I was logged in or not. There is no sign of being logged in or not.
 * It helped me look up some information on the different clubs in UH, and also having the contact information guide me to the next step.
 * I had a great experience using this website. There are lots of choices for clubs and all of them are categorized. It really helps me to find the one I want and I could save to my favorites.
+
+&nbsp;
 &nbsp;
 
 ## Developer Guide
