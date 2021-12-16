@@ -15,6 +15,7 @@ Each club's entry will have (as many as applicable):
 &nbsp;
 
 ## User Guide (Screen Shot of Each Page Section )
+-----------------------------------------------------
 
 ### Landing page
 The landing page will provide a basic idea of the project to the user and have a explanation to the users on how to use it.
