@@ -72,7 +72,7 @@ Then, those clubs will show up on the Favorites page.
 
 &nbsp;
 
-### My Clubs page (Club accounts only).
+### My Clubs page (Club accounts only)
 * Functions: View/Edit Club (Their Own Clubs)
 * Note: Can not change the owner of any of the clubs. For that, a club must contact an admin.
 <img class = "ui left spaced image" src = "/images/the-club-for-you-clubadmin-myclubs-1.PNG">
@@ -80,7 +80,7 @@ Then, those clubs will show up on the Favorites page.
 
 &nbsp;
 
-### Add Event page (Club accounts only).
+### Add Event page (Club accounts only)
 A Club account can add events (for their own clubs) to the Event calendar.
 <img class = "ui left spaced image" src = "/images/the-club-for-you-clubadmin-add-event.PNG">
 
