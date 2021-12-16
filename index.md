@@ -31,7 +31,9 @@ The landing page will provide a basic idea of the project to the user and have a
 ### Clubs page
 The Clubs page will show all of the clubs who use The Club for You. Each club also has tag(s) that the user can click on to see other, similar clubs.
 * Clubs Information(Description, Meeting time, Location etc.)
-<img class = "ui left spaced image" src = "/images/the-club-for-you-clubs.PNG">
+<img class = "ui left spaced image" src = "/images/the-club-for-you-clubs-1.PNG">
+<img class = "ui left spaced image" src = "/images/the-club-for-you-clubs-2.PNG">
+<img class = "ui left spaced image" src = "/images/the-club-for-you-clubs-3.PNG">
 
 &nbsp;
 
