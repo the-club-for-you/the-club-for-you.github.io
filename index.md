@@ -37,8 +37,14 @@ The Clubs page will show all of the clubs who use The Club for You. Each club al
 
 &nbsp;
 
+### Browse clubs by interest area(s)
+* Each clubs has specific interest tag on, so users can find them if they are interested in that specific area.
+<img class = "ui left spaced image" src = "/images/the-club-for-you-interests.PNG">
+
+&nbsp;
+
 ### Favorites page
-On the Clubs page, you can designate your favorite clubs by clicking on the heart ♡ icon on a Club's card. 
+On the Clubs page, you can designate your favorite clubs by clicking on the heart ♡ icon on a club's card. 
 Then, those clubs will show up on the Favorites page.
 * Clicking the heart ♡ icon again will remove the favorite designation from the Club (un-favorite it).
 <img class = "ui left spaced image" src = "/images/the-club-for-you-favorites-3.PNG">
@@ -47,8 +53,15 @@ Then, those clubs will show up on the Favorites page.
 
 &nbsp;
 
+### Events page
+* Calendar of events hosted and/or related to clubs who use The Club for You.
+<img class = "ui left spaced image" src = "/images/the-club-for-you-events.PNG">
+
+&nbsp;
+
+
 ### Edit a Club page (Admins only)
-* Identical to the Clubs page except that each Club's informational card has an "Edit" option that links to the Edit Club form
+* Identical to the Clubs page except that each club's informational card has an "Edit" option that links to the Edit Club form.
 <img class = "ui left spaced image" src = "/images/the-club-for-you-admin-edit-clubs-1.PNG">
 <img class = "ui left spaced image" src = "/images/the-club-for-you-admin-edit-clubs-2.PNG">
 
@@ -64,17 +77,17 @@ Then, those clubs will show up on the Favorites page.
 * Note: Can not change the owner of any of the clubs. For that, a club must contact an admin.
 <img class = "ui left spaced image" src = "/images/the-club-for-you-clubadmin-myclubs-1.PNG">
 <img class = "ui left spaced image" src = "/images/the-club-for-you-clubadmin-myclubs-2.PNG">
-<img class = "ui left spaced image" src = "/images/the-club-for-you-clubadmin-myclubs-3.PNG">
 
 &nbsp;
 
-### Browse clubs by interest area(s)
-* Each clubs has specific interest tag on, so users can find them if they are interested in that specific area.
-<img class = "ui left spaced image" src = "/images/the-club-for-you-interests.PNG">
+### Add Event page (Club accounts only).
+A Club account can add events (for their own clubs) to the Event calendar.
+<img class = "ui left spaced image" src = "/images/the-club-for-you-clubadmin-add-event.PNG">
 
 &nbsp;
 <br/>
 &nbsp;
+
 
 ## Mockup Page example
 -----------------------------------------------------
