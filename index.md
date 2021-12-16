@@ -74,38 +74,54 @@ A summary of our community feedback questionnaire responses (as of December 15, 
 
 #### Did you find the website helpful? If not, please explain why.
 > Yes, we can easily find favorite clubs and interests
+&nbsp;
 > Simple website to help you find the club you want
+&nbsp;
 > Interesting format
+&nbsp;
 > Useful information
-
+&nbsp;
 &nbsp;
 
 #### Anything we can do to help your experiences in our website?
 > Filter function is good for selecting what you want, but it sometimes shows nothing, maybe due to low club numbers for the filter tag
+&nbsp;
 > UI design
+&nbsp;
 > After you login, I hope there will be indication that you had logged in, rather than the site jumping back to the start
+&nbsp;
 > Maybe more pictures
+&nbsp;
 > The overall design is great. A little suggestion for the club section: more details about the clubs, maybe more pictures or comments from the club members. 
-
+&nbsp;
 &nbsp;
 
 #### Any suggestions?
 > increase more clubs, good job for this awesome website
+&nbsp;
 > more functional features
+&nbsp;
 > format is not scaled for phone users
+&nbsp;
 > change the typography on the mobile phone website
+&nbsp;
 > UI is well designed, really enjoyed using the website
-
+&nbsp;
 &nbsp;
 
 #### Please describe your experiences in a few sentences
-> Good experience due to the nice GUI and functions, but needs more clubs.
+> Good experience due to the nice GUI and functions, but needs more clubs. 
+&nbsp;
 > Useful tool for a new student to learn more about clubs at UHM.
+&nbsp;
 > Since you have the sign-in function, there can be more functional features, like commenting on a club.
+&nbsp;
 > Confused at first whether I was logged in or not. There is no sign of being logged in or not.
+&nbsp;
 > It helped me look up some information on the different clubs in UH, and also having the contact information guide me to the next step.
+&nbsp;
 > I had a great experience using this website. There are lots of choices for clubs and all of them are categorized. It really helps me to find the one I want and I could save to my favorites.
-
+&nbsp;
 &nbsp;
 
 ## Developer Guide
