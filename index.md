@@ -41,9 +41,9 @@ The Clubs page will show all of the clubs who use The Club for You. Each club al
 On the Clubs page, you can designate your favorite clubs by clicking on the heart ♡ icon on a Club's card. 
 Then, those clubs will show up on the Favorites page.
 * Clicking the heart ♡ icon again will remove the favorite designation from the Club (un-favorite it).
+<img class = "ui left spaced image" src = "/images/the-club-for-you-favorites-3.PNG">
 <img class = "ui left spaced image" src = "/images/the-club-for-you-favorites-1.PNG">
 <img class = "ui left spaced image" src = "/images/the-club-for-you-favorites-2.PNG">
-<img class = "ui left spaced image" src = "/images/the-club-for-you-favorites-3.PNG">
 
 &nbsp;
 
