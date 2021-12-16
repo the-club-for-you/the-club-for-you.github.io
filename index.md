@@ -199,14 +199,19 @@ Milestone 1 (done): (<a href = "https://github.com/the-club-for-you/the-club-for
 
 Milestone 2 (done): (<a href = "https://github.com/the-club-for-you/the-club-for-you/projects/2"> link </a>) &nbsp;
 
-Milestone 3：(in-progress) (<a href = "https://github.com/the-club-for-you/the-club-for-you/projects/3"> link </a>) &nbsp;
+Milestone 3 (done)： (<a href = "https://github.com/the-club-for-you/the-club-for-you/projects/3"> link </a>) &nbsp;
 
 &nbsp;
 <br/>
 &nbsp;
 
-## Contact Us (Coming Soon)
+## Contact Us
 -----------------------------------------------------
+Team Radical Unicorns of ICS 314 at the University of Hawaii at Manoa, Fall 2021
+* JingZhe Feng (jingzhef@hawaii.edu)
+* Trevor Kansaki (tkansaki@hawaii.edu)
+* Malia Liu (malialiu@hawaii.edu)
+* Joy Okimoto (jokimo@hawaii.edu)
 
 &nbsp;
 <br/>
@@ -222,17 +227,8 @@ Please visit [uhmtheclubforyou.xyz](https://uhmtheclubforyou.xyz).
 
 ## GitHub Organization
 -----------------------------------------------------
-The repositories for this website as well as the application are available at: (https://github.com/the-club-for-you).
+The repositories for this website as well as the application are available at: [https://github.com/the-club-for-you](https://github.com/the-club-for-you).
 
 &nbsp;
 <br/>
 &nbsp;
-
-## Team
------------------------------------------------------
-- Jingzhe Feng
-- Joy Okimoto
-- Malia Liu
-- Trevor Kansaki
-
-
