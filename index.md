@@ -39,7 +39,6 @@ The Clubs page will show all of the clubs who use The Club for You. Each club al
 * Identical to the Clubs page except that each Club's informational card has an "Edit" option that links to the Edit Club form
 <img class = "ui left spaced image" src = "/images/the-club-for-you-admin-edit-clubs-1.PNG">
 <img class = "ui left spaced image" src = "/images/the-club-for-you-admin-edit-clubs-2.PNG">
-<img class = "ui left spaced image" src = "/images/the-club-for-you-admin-edit-clubs-3.PNG">
 
 &nbsp;
 
