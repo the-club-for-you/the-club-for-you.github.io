@@ -11,6 +11,8 @@ Each club's entry will have (as many as applicable):
 - a few photos
 
 &nbsp;
+<br/>
+&nbsp;
 
 ## User Guide (Screen Shot of Each Page Section )
 
@@ -60,11 +62,16 @@ The Clubs page will show all of the clubs who use The Club for You. Each club al
 <img class = "ui left spaced image" src = "/images/the-club-for-you-interests.PNG">
 
 &nbsp;
+<br/>
+&nbsp;
 
 ## Mockup Page example
 ![](images/Mockup.png)
+
 &nbsp;
+<br/>
 &nbsp;
+
 ## Community Feedback
 A summary of our community feedback questionnaire responses (as of December 15, 2021). 
 &nbsp;
@@ -105,6 +112,7 @@ A summary of our community feedback questionnaire responses (as of December 15, 
 * I had a great experience using this website. There are lots of choices for clubs and all of them are categorized. It really helps me to find the one I want and I could save to my favorites.
 
 &nbsp;
+<br/>
 &nbsp;
 
 ## Developer Guide
@@ -132,6 +140,10 @@ $ meteor npm run start
 
 If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000).
 
+&nbsp;
+<br/>
+&nbsp;
+
 ## TestCafe Result
 TestCafe tests and ESLint will check that the app runs properly after every changes commit to the master branch. 
 A sample screenshot of TestCafe test results:
@@ -141,10 +153,16 @@ A sample screenshot of TestCafe test results:
 Current test result status of the master branch:
 ![ci-badge](https://github.com/the-club-for-you/the-club-for-you/workflows/ci-the-club-for-you/badge.svg)
 
+&nbsp;
+<br/>
+&nbsp;
 
 ## Application Design
 The Club For You is build based upon [meteor-application-template-react](https://ics-software-engineering.github.io/meteor-application-template-react/). Please use the videos and documentation at those sites to better acquaint yourself with the basic application design and form processing in The Club For You.
 
+&nbsp;
+<br/>
+&nbsp;
 
 ## Development History 
 Milestone 1 (done): (<a href = "https://github.com/the-club-for-you/the-club-for-you/projects/1"> link </a>) &nbsp;
@@ -153,13 +171,29 @@ Milestone 2 (done): (<a href = "https://github.com/the-club-for-you/the-club-for
 
 Milestone 3：(in-progress) (<a href = "https://github.com/the-club-for-you/the-club-for-you/projects/3"> link </a>) &nbsp;
 
+&nbsp;
+<br/>
+&nbsp;
+
 ## Contact Us (Coming Soon)
+
+&nbsp;
+<br/>
+&nbsp;
 
 ## Deployment on Digital Ocean
 Please visit [uhmtheclubforyou.xyz](https://uhmtheclubforyou.xyz).
 
+&nbsp;
+<br/>
+&nbsp;
+
 ## GitHub Organization
 The repositories for this website as well as the application are available at: (https://github.com/the-club-for-you).
+
+&nbsp;
+<br/>
+&nbsp;
 
 ## Team
 - Jingzhe Feng
