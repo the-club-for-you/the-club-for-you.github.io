@@ -88,7 +88,7 @@ A summary of our community feedback questionnaire responses (as of December 15, 
 * The overall design is great. A little suggestion for the club section: more details about the clubs, maybe more pictures or comments from the club members. 
 &nbsp;
 
-#### Any suggestions?
+### Any suggestions?
 * increase more clubs, good job for this awesome website
 * more functional features
 * format is not scaled for phone users
@@ -96,7 +96,7 @@ A summary of our community feedback questionnaire responses (as of December 15, 
 * UI is well designed, really enjoyed using the website
 &nbsp;
 
-#### Please describe your experiences in a few sentences
+### Please describe your experiences in a few sentences
 * Good experience due to the nice GUI and functions, but needs more clubs. 
 * Useful tool for a new student to learn more about clubs at UHM.
 * Since you have the sign-in function, there can be more functional features, like commenting on a club.
