@@ -67,6 +67,7 @@ The Clubs page will show all of the clubs who use The Club for You. Each club al
 &nbsp;
 
 ## Mockup Page example
+-----------------------------------------------------
 ![](images/Mockup.png)
 
 &nbsp;
@@ -74,6 +75,7 @@ The Clubs page will show all of the clubs who use The Club for You. Each club al
 &nbsp;
 
 ## Community Feedback
+-----------------------------------------------------
 A summary of our community feedback questionnaire responses (as of December 15, 2021). 
 &nbsp;
 ### Score of the website
@@ -117,6 +119,7 @@ A summary of our community feedback questionnaire responses (as of December 15, 
 &nbsp;
 
 ## Developer Guide
+-----------------------------------------------------
 Installation
 
 First, [install Meteor](https://www.meteor.com/install).
@@ -146,6 +149,7 @@ If all goes well, the application will appear at [http://localhost:3000](http://
 &nbsp;
 
 ## TestCafe Result
+-----------------------------------------------------
 TestCafe tests and ESLint will check that the app runs properly after every changes commit to the master branch. 
 A sample screenshot of TestCafe test results:
 <img class = "ui left spaced image" src = "/images/testcafe.png">
@@ -159,6 +163,7 @@ Current test result status of the master branch:
 &nbsp;
 
 ## Application Design
+-----------------------------------------------------
 The Club For You is build based upon [meteor-application-template-react](https://ics-software-engineering.github.io/meteor-application-template-react/). Please use the videos and documentation at those sites to better acquaint yourself with the basic application design and form processing in The Club For You.
 
 &nbsp;
@@ -166,6 +171,7 @@ The Club For You is build based upon [meteor-application-template-react](https:/
 &nbsp;
 
 ## Development History 
+-----------------------------------------------------
 Milestone 1 (done): (<a href = "https://github.com/the-club-for-you/the-club-for-you/projects/1"> link </a>) &nbsp;
 
 Milestone 2 (done): (<a href = "https://github.com/the-club-for-you/the-club-for-you/projects/2"> link </a>) &nbsp;
@@ -177,12 +183,14 @@ Milestone 3：(in-progress) (<a href = "https://github.com/the-club-for-you/the-
 &nbsp;
 
 ## Contact Us (Coming Soon)
+-----------------------------------------------------
 
 &nbsp;
 <br/>
 &nbsp;
 
 ## Deployment on Digital Ocean
+-----------------------------------------------------
 Please visit [uhmtheclubforyou.xyz](https://uhmtheclubforyou.xyz).
 
 &nbsp;
@@ -190,6 +198,7 @@ Please visit [uhmtheclubforyou.xyz](https://uhmtheclubforyou.xyz).
 &nbsp;
 
 ## GitHub Organization
+-----------------------------------------------------
 The repositories for this website as well as the application are available at: (https://github.com/the-club-for-you).
 
 &nbsp;
@@ -197,6 +206,7 @@ The repositories for this website as well as the application are available at: (
 &nbsp;
 
 ## Team
+-----------------------------------------------------
 - Jingzhe Feng
 - Joy Okimoto
 - Malia Liu
