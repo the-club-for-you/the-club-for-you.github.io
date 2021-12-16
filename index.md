@@ -63,7 +63,8 @@ The Clubs page will show all of the clubs who use The Club for You. Each club al
 
 ## Mockup Page example
 ![](images/Mockup.png)
-
+&nbsp;
+&nbsp;
 ## Community Feedback
 A summary of our community feedback questionnaire responses (as of December 15, 2021). 
 &nbsp;
