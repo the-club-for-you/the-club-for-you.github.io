@@ -64,7 +64,40 @@ The Clubs page will show all of the clubs who use The Club for You. Each club al
 ## Mockup Page example
 ![](images/Mockup.png)
 
-## Community Feedback(Coming Soon)
+## Community Feedback
+A summary of our community feedback questionnaire responses (as of December 15, 2021). 
+&nbsp;
+#### Score of the website
+<img class = "ui left spaced image" src = "/images/community-feedback-score-pie-chart.PNG">
+&nbsp;
+#### Did you find the website helpful? If not, please explain why.
+> Yes, we can easily find favorite clubs and interests
+> Simple website to help you find the club you want
+> Interesting format
+> Useful information
+&nbsp;
+#### Anything we can do to help your experiences in our website?
+> Filter function is good for selecting what you want, but it sometimes shows nothing, maybe due to low club numbers for the filter tag
+> UI design
+> After you login, I hope there will be indication that you had logged in, rather than the site jumping back to the start
+> Maybe more pictures
+> The overall design is great. A little suggestion for the club section: more details about the clubs, maybe more pictures or comments from the club members. 
+&nbsp;
+#### Any suggestions?
+> increase more clubs, good job for this awesome website
+> more functional features
+> format is not scaled for phone users
+> change the typography on the mobile phone website
+> UI is well designed, really enjoyed using the website
+&nbsp;
+#### Please describe your experiences in a few sentences
+> Good experience due to the nice GUI and functions, but needs more clubs.
+> Useful tool for a new student to learn more about clubs at UHM.
+> Since you have the sign-in function, there can be more functional features, like commenting on a club.
+> Confused at first whether I was logged in or not. There is no sign of being logged in or not.
+> It helped me look up some information on the different clubs in UH, and also having the contact information guide me to the next step.
+> I had a great experience using this website. There are lots of choices for clubs and all of them are categorized. It really helps me to find the one I want and I could save to my favorites.
+&nbsp;
 
 ## Developer Guide
 Installation
