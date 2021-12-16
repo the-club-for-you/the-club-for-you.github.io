@@ -37,6 +37,16 @@ The Clubs page will show all of the clubs who use The Club for You. Each club al
 
 &nbsp;
 
+### Favorites page
+On the Clubs page, you can designate your favorite clubs by clicking on the heart ♡ icon on a Club's card. 
+Then, those clubs will show up on the Favorites page.
+* Clicking the heart ♡ icon again will remove the favorite designation from the Club (un-favorite it).
+<img class = "ui left spaced image" src = "/images/the-club-for-you-favorites-1.PNG">
+<img class = "ui left spaced image" src = "/images/the-club-for-you-favorites-2.PNG">
+<img class = "ui left spaced image" src = "/images/the-club-for-you-favorites-3.PNG">
+
+&nbsp;
+
 ### Edit a Club page (Admins only)
 * Identical to the Clubs page except that each Club's informational card has an "Edit" option that links to the Edit Club form
 <img class = "ui left spaced image" src = "/images/the-club-for-you-admin-edit-clubs-1.PNG">
@@ -45,8 +55,7 @@ The Clubs page will show all of the clubs who use The Club for You. Each club al
 &nbsp;
 
 ### Add a New Club page (Admins only)
-<img class = "ui left spaced image" src = "/images/the-club-for-you-admin-add-club-1.PNG">
-<img class = "ui left spaced image" src = "/images/the-club-for-you-admin-add-club-2.PNG">
+<img class = "ui left spaced image" src = "/images/the-club-for-you-admin-add-club.PNG">
 
 &nbsp;
 
